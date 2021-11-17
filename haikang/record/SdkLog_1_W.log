@@ -1,0 +1,24 @@
+[2021-11-15 18:29:00.119][INF] The COM:HCCoreBase ver is 6.1.4.15, 2020_03_05. Async:1.
+[2021-11-15 18:29:00.120][INF] The COM:Core ver is 6.1.6.45, 2021_03_02. Async:1.
+[2021-11-15 18:29:00.120][INF] This HCNetSDK ver is 6.1.6.45 Ver 2021_03_02.
+[2021-11-15 18:29:00.120][INF] The COM:HCCoreBase ver is 6.1.4.15, 2020_03_05. Async:1.
+[2021-11-15 18:29:00.120][INF] The COM:Core ver is 6.1.6.45, 2021_03_02. Async:1.
+[2021-11-15 18:29:00.120][INF] This HCNetSDK ver is 6.1.6.45 Ver 2021_03_02.
+[2021-11-15 18:29:00.120][INF] Login dev 192.168.5.165:8000.
+[2021-11-15 18:29:00.120][INF] dwTotalNum[2048]
+[2021-11-15 18:29:00.122][INF] Private connect 192.168.5.165:8000 sock=131 this=0xd3f366f4 cmd=0x10000 port=51995
+[2021-11-15 18:29:00.122][INF] LogonDev1 in[192.168.5.165:8000]
+[2021-11-15 18:29:00.122][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[/home/zhaoxuewang/go_device_haikang/app/api/haikang/./lib/libcrypto.so], hHandleRet[-738982368]
+[2021-11-15 18:29:00.123][DBG] CCoreGlobalCtrlBase::LoadDSo, HPR_LoadDSo Succ, Path[/home/zhaoxuewang/go_device_haikang/app/api/haikang/./lib/libssl.so], hHandleRet[-738980736]
+[2021-11-15 18:29:00.123][INF] SSLTRANSAPI::LoadAPI, libeay, Load Real Path[/home/zhaoxuewang/go_device_haikang/app/api/haikang/./lib/libcrypto.so]
+[2021-11-15 18:29:00.123][INF] SSLTRANSAPI::LoadAPI, libssl, Load Real Path[/home/zhaoxuewang/go_device_haikang/app/api/haikang/./lib/libssl.so]
+[2021-11-15 18:29:00.123][INF] SSLTRANSAPI::IsAllAPILoaded, OpenSSL_version Unload
+[2021-11-15 18:29:00.123][INF] OpenSSL, Not All Function Loaded!
+[2021-11-15 18:29:00.123][INF] SSLTRANSAPI::PrintVersion, SSLeay_version info [OpenSSL 1.0.2t  10 Sep 2019]
+[2021-11-15 18:29:00.123][INF] CSSLTrans::SSLCtxInit, dwSSLVersion[0], m_fnClientMethodV23
+[2021-11-15 18:29:00.300][DBG] CComBase::Load, Load szDllPath[/home/zhaoxuewang/go_device_haikang/app/api/haikang/./lib/HCNetSDKCom/libHCPreview.so] SUCC
+[2021-11-15 18:29:00.300][INF] AbilityAnalyze---Init-- start
+[2021-11-15 18:29:00.307][DBG] AbilityAnalyze---Init-- over, DeviceList path [/home/zhaoxuewang/go_device_haikang/app/api/haikang/lib/HCNetSDKCom/LocalXml/DeviceList.xml], load result[0]
+[2021-11-15 18:29:00.308][INF] The COM:Preview ver is 6.1.6.45, 2021_03_02.
+[2021-11-15 18:29:00.308][DBG] COM_CaptureJPEGPicture_NEW [0, 1, -608270736, -608475744, -608475744, 204800]
+[2021-11-15 18:29:00.311][INF] Private connect 192.168.5.165:8000 sock=131 this=0xd3f366f4 cmd=0x30009 port=51996
